@@ -24,6 +24,8 @@ let notas = prompt ('resultado de num3')
 console.log(promedio ('promedio de las notas'+ not1 + not2 + not3 ))
 alert(promedio(not1, not2, not3))
 
+
+
 function marcos()
 {
     let salariomensual = 1500
